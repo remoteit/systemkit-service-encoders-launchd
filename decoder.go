@@ -3,9 +3,9 @@ package encoders
 import (
 	"strings"
 
-	logging "github.com/codemodify/systemkit-logging"
-	spec "github.com/codemodify/systemkit-service-spec"
 	"github.com/groob/plist"
+	logging "github.com/remoteit/systemkit-logging"
+	spec "github.com/remoteit/systemkit-service-spec"
 )
 
 // LaunchDToSERVICE -
